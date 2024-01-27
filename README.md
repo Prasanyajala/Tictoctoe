@@ -15,6 +15,7 @@ This is a simple command-line Tic-Tac-Toe game implemented in C++.
 - Interactive: User-friendly interface for input and output.
 ## How to Run
 
+https://github.com/Prasanyajala/Tictoctoe/assets/153526672/51b3e77c-f6b9-4752-baeb-31938621e7e6
 
 ## Usage
 
